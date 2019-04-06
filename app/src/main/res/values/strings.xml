@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Book Listing</string>
     <string name="search">Search</string>
+    <string name="results">Results:</string>
     <string name="no_title"><i>No title information</i></string>
     <string name="no_author"><i>No author information</i></string>
     <string name="no_publish_date"><i>No publication date</i></string>

@@ -17,13 +17,15 @@
             android:textStyle="bold"
             android:layout_weight="1"
             android:layout_width="0dp"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColorMain"/>
 
         <TextView
             android:id="@+id/date"
             android:textSize="16sp"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColorSecondary"/>
 
     </LinearLayout>
 
@@ -31,6 +33,7 @@
         android:id="@+id/authors"
         android:textSize="12sp"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColorSecondary" />
 
 </LinearLayout>
